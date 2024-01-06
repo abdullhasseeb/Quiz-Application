@@ -1,16 +1,7 @@
-# quiz
+🧠 Developed an engaging quiz app powered by REST APIs for real-time data retrieval, offering users a dynamic quiz experience that continuously evolves.
 
-A new Flutter project.
+📊 Leveraged SQLite local storage for efficient data management, ensuring seamless engagement even without an internet connection, providing uninterrupted access to quizzes.
 
-## Getting Started
+📱 A responsive UI design enhances user interaction, delivering an intuitive and accessible quiz platform across devices for an immersive and uninterrupted quiz journey.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🚀 Proudly contributed to fostering engaging learning experiences through technology, creating an app that offers both educational value and seamless usability. #QuizApp #RESTAPI #SQLiteStorage
